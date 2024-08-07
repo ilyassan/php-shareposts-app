@@ -2,6 +2,10 @@
 
 PHP posts sharing application built on a custom MVC framework with a MySQL Database, created during studying OOP PHP & MVC course by Brad Traversy.
 
+## Why Did I Build This?
+
+To gain foundational knowledge of PHP using the MVC pattern before diving into PHP frameworks like Laravel or Symfony.
+
 ## Features
 
 - Access control for posts.
